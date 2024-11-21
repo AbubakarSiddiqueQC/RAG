@@ -1,1 +1,5 @@
-This is a basic RAG quickstart. We can chnage any endpoint whether it is on AWS Sagemaker, GCP Vertax AI, And any HF opensource model. 
+Multi-Lingual Vanila RAG with Together.ai and Chroma DB: No LangChain or LamaIndex
+
+Tested Languages: EN, URDU
+
+Credits: Pradip Nichite
